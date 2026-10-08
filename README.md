@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Robinson Fernandez Gil] 👋
+# ¡Hola! Soy Robinson Fernandez Gil 👋
 
 🎓 **Futuro Ingeniero Electrónico** apasionado por la automatización, el procesamiento de señales, los sistemas embebidos y el desarrollo de software. Actualmente perfeccionando mis habilidades en la línea de comandos de Linux, Python y desarrollo en Java.
 
