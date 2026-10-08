@@ -12,8 +12,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![C/C++](https://img.shields.io/badge/C%2F%C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **Entornos y Sistemas Operativos:**
