@@ -37,5 +37,5 @@
 
 ### 📫 Contacto
 
-- **Celular** 3023620756 
-- **Correo:** fernandez150@hotmail.es
+<a href="mailto:fernandez150@hotmail.es"><img src="https://img.shields.io/badge/Hotmail-c14438?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Hotmail" /></a>
+<a href="https://wa.me/573023620756"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
